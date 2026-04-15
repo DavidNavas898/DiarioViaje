@@ -9,3 +9,6 @@ Estados Unidos ofrece destinos diversos, destacando ciudades icónicas como Nuev
 
 ## Imagen
 ![Estados-Unidos](https://thetravelvoiceblog.com/wp-content/uploads/2020/11/13-lugares-de-estados-unidosJPG.jpg)
+
+## Informacion sobre Estados Unidos
+Principal potencia capitalista e industrial, con un PIB superior a los 15 billones de dólares.
