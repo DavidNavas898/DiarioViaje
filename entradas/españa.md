@@ -6,3 +6,6 @@ España, oficialmente Reino de España, es un país soberano situado en el suroe
 
 ## Recomendaciones
 España ofrece destinos inolvidables, destacando Madrid por su cultura, Barcelona por el modernismo de Gaudí, Sevilla por su esencia andaluza y Granada por la Alhambra. No te pierdas la gastronomía de San Sebastián, las playas de Baleares/Canarias y la historia de ciudades como Toledo o Segovia para una experiencia completa. 
+
+## Imagen
+![España](https://res.cloudinary.com/worldpackers/image/upload/c_limit,f_auto,q_auto,w_1140/twktd76esc5mjjrvoeui)
