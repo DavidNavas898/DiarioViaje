@@ -6,3 +6,6 @@ Colombia es un país sudamericano vibrante y biodiverso, situado en el extremo n
 
 ## Recomendaciones 
 Colombia ofrece una diversidad increíble, destacando destinos como la histórica Cartagena, el Eje Cafetero con sus palmas de cera, Medellín y el Parque Nacional Natural Tayrona. Otros lugares imperdibles incluyen el Desierto de la Tatacoa para astronomía, la ciudad colonial de Barichara, el santuario de Las Lajas y la biodiversidad del Amazonas.
+
+## Foto
+![Colombia](https://cloudfront-us-east-1.images.arcpublishing.com/infobae/FEC67PB62VC3VF6LF5KNEGB2EE.jpg)
