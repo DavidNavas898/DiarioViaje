@@ -11,3 +11,6 @@ Si vas a paris deberias ir a:
 3. Catedral de Notre Dame
 4. Ir de los Campos Elíseos al Arco del Triunfo
 5. El Sacré Cœur y Montmartre
+
+## Foto
+![paris](https://estoesfrancia.com/wp-content/uploads/2024/04/subir-torre-eiffel.jpg)
