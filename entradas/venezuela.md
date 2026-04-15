@@ -11,3 +11,6 @@ Venezuela ofrece destinos espectaculares, destacando el Salto Ángel en el Parqu
 
 ## Imagen
 ![Venezuela](https://humanidades.com/wp-content/uploads/2018/08/venezuela-1-800x406.jpg)
+
+## Informacion sobre venezuela
+Se define como un Estado federal social de derecho y justicia. Sin embargo, el país ha experimentado una crisis política y social significativa con Nicolás Maduro en el poder desde 2019.
