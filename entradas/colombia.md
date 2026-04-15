@@ -9,3 +9,6 @@ Colombia ofrece una diversidad increíble, destacando destinos como la históric
 
 ## Foto
 ![Colombia](https://cloudfront-us-east-1.images.arcpublishing.com/infobae/FEC67PB62VC3VF6LF5KNEGB2EE.jpg)
+
+## Informacion sobre colombia
+Geografía y Regiones: Posee seis regiones naturales principales: Andina, Caribe, Pacífica, Orinoquía, Amazonía e Insular. La región andina es atravesada por tres cordilleras, albergando una gran diversidad de climas y paisajes.
