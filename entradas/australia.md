@@ -6,3 +6,6 @@ Australia es una nación soberana, el sexto país más grande del mundo y el ún
 
 ## Recomendacion
 Australia ofrece destinos icónicos como la Ópera de Sídney y la Gran Barrera de Coral, junto con experiencias naturales únicas en Uluru (Ayers Rock) y la Great Ocean Road. Para amantes de la naturaleza y aventura, destacan Cairns/Daintree Rainforest, Tasmania y las Islas Whitsunday.
+
+## Imagen del pais
+![Australia](https://www.shutterstock.com/image-photo/sydney-harbour-opera-house-cityscape-260nw-2495680553.jpg)
