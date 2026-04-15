@@ -9,3 +9,6 @@ España ofrece destinos inolvidables, destacando Madrid por su cultura, Barcelon
 
 ## Imagen
 ![España](https://res.cloudinary.com/worldpackers/image/upload/c_limit,f_auto,q_auto,w_1140/twktd76esc5mjjrvoeui)
+
+## Informacion sobre españa
+Gobierno: Monarquía Parlamentaria con el Rey Felipe VI como jefe de Estado y Pedro Sánchez como jefe de Gobierno.
