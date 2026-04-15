@@ -1,11 +1,9 @@
 # DiarioViaje
 1. Paris
 2. Colombia
-3. Tokyo
-4. Japon
-5. Australia
-6. Venezuela
-7. Estados unidos
-8. España
-9. Polonia
-10. Suiza
+3. Japon
+4. Australia
+5. Venezuela
+6. Estados unidos
+7. España
+
