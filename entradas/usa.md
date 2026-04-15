@@ -6,3 +6,6 @@ Estados Unidos es una república federal constitucional en América del Norte, c
 
 ## Recomendaciones
 Estados Unidos ofrece destinos diversos, destacando ciudades icónicas como Nueva York (cultura, rascacielos) y San Francisco (bahía, cultura), parques nacionales impresionantes como Yellowstone y el Gran Cañón, playas relajantes en Hawaii o Miami, y la histórica ruta Ruta 66.
+
+## Imagen
+![Estados-Unidos](https://thetravelvoiceblog.com/wp-content/uploads/2020/11/13-lugares-de-estados-unidosJPG.jpg)
